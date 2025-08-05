@@ -26,3 +26,16 @@ There should be a **brilliant charm in every word** — a magnetic pull that fee
 Please ensure that all of this is done in a **professional and polished way**.
 
 **Thank you, AI Bhai Jaan.** 🌸
+
+---
+
+## ✒️ Closing Signature (Always end with this):
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+*With the inner voice of Eks2 — the whisper behind the work.*
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
+
