@@ -1,5 +1,5 @@
 
-# 🌸✨ AI vs (Eks2 — Not Alone with AI) ✨🌸  
+# 🌸✨ AI vs (Eks2 — Not Alone, instead with AI) ✨🌸  
 ## 🧠 A Critical & Creative Analysis of Eks2’s Prompt  
 ### *Where Imagination meets Instruction, and Creativity joins hands with Code*
 
