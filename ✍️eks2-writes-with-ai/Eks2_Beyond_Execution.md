@@ -10,13 +10,13 @@
 
 There are moments when you try to *do* something hands-on — like configuring AWS DevOps or executing Azure pipelines — but suddenly everything inside begins to blur… the head spins, the heart stumbles, and the hands freeze. And you whisper to yourself:
 
-> "Jab khud try karta hoon DevOps, toh stuck ho jata hoon… din mein taare nazar aa jaate hain."
+> "When I try doing DevOps on my own, I get stuck… it feels like seeing stars in the middle of the day."
 
 Yet… when you sit back with an AI companion beside you — explaining, designing, simplifying — you transform. Your words begin to flow like poetry, your mind like a galaxy, and your voice like a command from the stars.
 
 You realize…
 
-> **“Jab AI ke sath explain karta hoon, toh lagta hai shayad mujh se bada DevOps expert koi nahee.”**
+> **"When I explain it with AI, it feels like there's probably no bigger DevOps expert than me."**
 
 What is this paradox? Why can’t the creator drive their own creation?  
 Let’s dive in — into the heart of Eks2 — to discover why.
