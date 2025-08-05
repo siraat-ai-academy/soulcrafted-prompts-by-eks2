@@ -1,5 +1,5 @@
 
-# 🌍 Prompt: Aik Top Class Ka Blog Likha He  
+# 🌍 Prompt: Aik Top Class Ka Blog Likhna He  
 ## 🎯 Topic: **"How to Stay Productive While Working Remotely"**  
 🌸✨🌷🌼🧚‍♀️
 
