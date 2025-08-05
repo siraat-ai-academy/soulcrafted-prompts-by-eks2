@@ -1,5 +1,5 @@
 # 📝 Prompt Under Review  
-## 🎯 This is the exact prompt that has been critically analyzed above.
+## 🎯 This is the exact prompt that has been critically analyzed.
 
 🔍 **View the full critical analysis here:**  
 [Click to read the analysis on GitHub](https://github.com/siraat-ai-academy/soulcrafted-prompts-by-eks2/blob/main/prompt-01/03-Eks2_AI_Prompt_Critique.md)
@@ -18,3 +18,13 @@ yani asan alfaz mein k hum gher mein bheth romotely kaam karein aur aik proudcti
 all headings and sub headings and keyterms mush be SEO friendly hona chahiye bhai jaan aur aik aur important baat k output jo he wo AEO (Answer Engine Optimization) hon tou kamal ho jae ga bhai jaa.. aur ye sub kuch aap ne byeond the glaxies se kerna he.. matlab k ye unique work hona chahiye mere dost... tou ho jae phir aik top class ki output azeez ai dost
 
 ---
+
+## ✒️ Closing Signature (Always end with this):
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+*With the inner voice of Eks2 — the whisper behind the work.*
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
