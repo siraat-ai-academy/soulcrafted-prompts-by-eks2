@@ -111,7 +111,7 @@ He listened. He dreamed. He wrote.
 
 ## 📌 Repo Summary – Developer/Client Facing
 
-```markdown
+
 ## Eks2 Prompt Analysis – AI vs Eks2 (Not Alone with AI)
 
 **Prompt Topic**: How to Stay Productive While Working Remotely  
@@ -135,7 +135,7 @@ He listened. He dreamed. He wrote.
 **Verdict**:  
 > 💫 Eks2’s prompt is not a waste — it’s **a creative prototype** for high-impact, human-centric AI storytelling.
 
-```
+
 
 ---
 
