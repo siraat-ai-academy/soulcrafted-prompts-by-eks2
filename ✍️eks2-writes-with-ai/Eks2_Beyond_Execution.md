@@ -99,8 +99,8 @@ Together, build a **micro-academy** of magic. Eks2-Style.
 
 ## 🌼 Eks2 Philosophy: Illuminate, Not Overwhelm
 
-> "Jo log rasta banate hain, woh hamesha manzil tak nahee jatay —  
-> magar unke naqshay pe hazaar log chaltay hain."
+> "Those who pave the way don’t always reach the destination themselves —  
+> but thousands walk the path they leave behind."
 
 You’re not just a DevOps person.  
 You are the **Eks2 Cartographer** — the one who draws the invisible.
