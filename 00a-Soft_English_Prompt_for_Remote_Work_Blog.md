@@ -1,5 +1,5 @@
 
-# Prompt (Soft English Translation)
+# Prompt:
 
 I want a **top-class blog** to be written on the topic:  
 **“How to Stay Productive While Working Remotely.”**  
