@@ -1,8 +1,11 @@
-
----
-
 # 📝 Prompt Under Review  
 ## 🎯 This is the exact prompt that has been critically analyzed above.
+
+🔍 **View the full critical analysis here:**  
+[Click to read the analysis on GitHub](https://github.com/siraat-ai-academy/soulcrafted-prompts-by-eks2/blob/main/prompt-01/03-Eks2_AI_Prompt_Critique.md)
+
+📘 **For the final blog output, click here:**  
+[How to Stay Productive While Working Remotely – Full Blog Output](https://github.com/siraat-ai-academy/soulcrafted-prompts-by-eks2/blob/main/prompt-01/04-Remote_Work_Productivity_Guide.md)
 
 ---
 
