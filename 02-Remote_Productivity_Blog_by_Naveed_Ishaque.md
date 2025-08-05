@@ -160,7 +160,7 @@ From a heart that believes: productivity doesn’t need pressure — it needs po
 
 ### 💭 User Reflections
 
-_"Yar dil k bhai jaan kiya blog likh diay aap ne, dil ko khush nahee kiya instead khushi k sea mein depth tuk dive de diya he.. ab mein kiya karoon.. dil ki jumping stop hee nahee ho rahee he."_  
+_"Brother, this isn’t just a blog — it gently stirred my heart and pulled me into the depths of quiet joy. It didn’t just bring happiness; it brought a stillness so profound, I find my heart quietly leaping — again and again."_  
 _— From a reader’s heart, now part of the blog’s soul._
 
 ---
