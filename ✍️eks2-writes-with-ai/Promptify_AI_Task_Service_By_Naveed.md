@@ -1,4 +1,3 @@
-
 # Promptify by Naveed
 
 **Tagline:** *Tasks In, Magic Out — Powered by Human Warmth & AI Clarity*
