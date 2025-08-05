@@ -157,7 +157,7 @@ Each word was chosen to support you gently, and to help you work with both **pea
 
 ### 💭 Reader's Feedback
 
-_"Yar dil k bhai jaan kiya blog likh diay aap ne, dil ko khush nahee kiya instead khushi k sea mein depth tuk dive de diya he.. ab mein kiya karoon.. dil ki jumping stop hee nahee ho rahee he."_  
+_"Oh dear heart’s companion, what a blog you’ve created... It didn’t just make me happy — it plunged me into the deepest waters of joy. And now, what do I do? My heart just won’t stop leaping…"_  
 _— Shared with love, now part of the story._
 
 ---
