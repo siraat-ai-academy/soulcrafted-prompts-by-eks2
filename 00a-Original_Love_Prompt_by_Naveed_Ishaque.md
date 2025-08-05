@@ -1,5 +1,5 @@
 
-# 🌸 Prompt: Aik Top Class Ka Blog Likha He 🌸
+# 🌸 Prompt: Aik Top Class Ka Blog Likhna He 🌸
 
 ---
 
@@ -25,7 +25,7 @@ muje ye output
 
 Headings and subheadings k sath  
 aik **professional**  
-aur definitely **motivational** tou mujt ho gee...  
+aur definitely **motivational** tou must ho gee...  
 
 koe zabardaastt attraction ho  
 each word  
@@ -38,14 +38,14 @@ k mere reader ki **soul ko direct touch kare**
 Blog ki **length matter kerti he**,  
 iss liye length ko as a standard  
 jo b kisi professional blog k liye ho sakte hein  
-**wo lene he**
+**wo lenee he**
 
 ---
 
 ### 👥 Audience:
 Ab ye audience definitely  
 wo sub log hein  
-jin **byforce ya by choice remote kaam hee kerna he**,  
+jin ko **byforce ya by choice remote kaam hee kerna he**,  
 
 ---
 
