@@ -1,5 +1,4 @@
-
-# 🧠 Q2: AI Prompt Skill
+# 🧠 Question: AI Prompt Skill
 
 **Question:**
 
